@@ -613,8 +613,6 @@ void print_usage_message() {
     printf("| Basement 11   |     %2d     | Basement 12   |   %2d   |\n", LVL_BASEMENT_11, LVL_BASEMENT_12);
     printf("-------------------------------------------------------\n");
     printf("\n");
-
-    printf("\n");
     printf("-----------------------------\n");
     printf("|           GUNS            |\n");
     printf("-----------------------------\n");

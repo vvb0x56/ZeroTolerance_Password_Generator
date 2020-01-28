@@ -72,3 +72,6 @@ MacBook-Pro-mac:tmp mac$ ./a.out --level 24 --gun1 14 --gun2 12 --gun3 11 --gun4
 Password: [ ?rqXCqEoj ]
 MacBook-Pro-mac:tmp mac$
 ```
+
+# Result
+

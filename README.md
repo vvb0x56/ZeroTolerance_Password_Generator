@@ -2,6 +2,7 @@
 Reverse engineered algo for password generations in Sega game Zero Tolerance
 
 # Usage 
+```
 MacBook-Pro-mac:tmp mac$ ./a.out --help
 
 	--help              This help message
@@ -70,3 +71,4 @@ MacBook-Pro-mac:tmp mac$ ./a.out --help
 MacBook-Pro-mac:tmp mac$ ./a.out --level 24 --gun1 14 --gun2 12 --gun3 11 --gun4 10 --gun5 3
 Password: [ ?rqXCqEoj ]
 MacBook-Pro-mac:tmp mac$
+```

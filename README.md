@@ -75,3 +75,4 @@ MacBook-Pro-mac:tmp mac$
 
 # Result
 
+![alt text](https://raw.githubusercontent.com/vvb0x56/ZeroTolerance_Password_Generator/img/img.png)

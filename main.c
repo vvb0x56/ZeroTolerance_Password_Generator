@@ -699,7 +699,7 @@ void set_level(int level_opt) {
             globalArgs.level = level_opt;
             break;
         default:
-            //globalArgs.level = LVL_DOCKING_BAY_2;
+            globalArgs.level = LVL_DOCKING_BAY_2;
             break;
     }
 }

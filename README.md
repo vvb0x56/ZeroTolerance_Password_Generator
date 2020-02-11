@@ -1,5 +1,5 @@
 # ZeroTolerance_Password_Generator
-My "HelloReverse" application, let me say, first view on the Motorola 68k assembly, this is reverse engineered algorithm of password generation in Sega game Zero Tolerance. Code is not ideal, but works.  
+My "HelloReverse" application, let me say, first view on the Motorola 68k assembly, this is reverse engineered algorithm of password generation in Sega game Zero Tolerance. Code is not perfect, but works.  
 
 # Usage 
 ```
